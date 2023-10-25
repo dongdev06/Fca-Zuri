@@ -1,10 +1,10 @@
 {
   "version": "7.4.0",
-  "_from": "fca-rqzax@latest",
-  "_id": "fca-rqzax@7.0.0",
+  "_from": "fca-zuri@latest",
+  "_id": "fca-zuri@7.4.0",
   "_inBundle": false,
   "_integrity": "sha512-b64hwz43/4zLdQIODd023pGZEwZ2PAjs+U1zJ8p6h/LlRjJnf7SJtW1XxcF6GuqzrDoOC0M5OfpuHWwqeX8bvg==",
-  "_location": "/fca-rqzax",
+  "_location": "/fca-zuri",
   "_phantomChildren": {
     "@pm2/agent": "2.0.1",
     "@pm2/io": "5.0.0",
@@ -145,9 +145,9 @@
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "fca-rqzax@latest",
-    "name": "fca-rqzax",
-    "escapedName": "fca-r1zax",
+    "raw": "fca-zuri@latest",
+    "name": "fca-zuri",
+    "escapedName": "fca-zuri",
     "rawSpec": "latest",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -156,15 +156,15 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/fca-rqzax/-/fca-rqzax-7.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/fca-rqzax/-/fca-zurri-7.4.0.tgz",
   "_shasum": "5f1f6bb258eece86d4230949ced8b2325efe2cfd",
-  "_spec": "fca-rqzax@latest",
+  "_spec": "fca-zuri@latest",
   "_where": "/home/runner/Bot11-2xx-Vip",
   "author": {
     "name": "Anup Kumar"
   },
   "bugs": {
-    "url": "https://github.com/RqzaX040/Fca-Hokai-Remake/issues"
+    "url": "https://github.com/dongdev06/Fca-Zuri/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -181,7 +181,7 @@
     "https-proxy-agent": "latest",
     "is-hexcolor": "^1.0.0",
     "lodash": "",
-    "mqtt": "latest",
+    "mqtt": "^4.3.7",
     "rqzax-database": "latest",
     "node-superfetch": "",
     "npmlog": "latest",
@@ -196,7 +196,7 @@
     "websocket-stream": "latest"
   },
   "deprecated": false,
-  "description": "Fca Được R1zaX Duy Trì và Phát Triển Được Mod Lại Từ Scr Của Fca-Horizon-Remake",
+  "description": "Fca Được DongDev Duy Trì và Phát Triển Được Mod Lại Từ Scr Của Fca-Horizon-Remake",
   "devDependencies": {
     "eslint": "latest",
     "mocha": "latest",
@@ -233,17 +233,17 @@
   },
   "homepage": "https://github.com/RqzaX040/Fca-Hokai-Remake#readme",
   "keywords": [
-    "Fca RqzaX",
-    "RqzaX",
-    "RqzaX fca",
+    "Fca Zuri",
+    "Zuri",
+    "Zuri fca",
     "fca"
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "fca-rqzax",
+  "name": "fca-zuri",
   "repository": {
     "type": "git",
-    "url": "git://github.com/RqzaX040/Fca-Hokai-Remake.git"
+    "url": "git://github.com/....git"
   },
   "scripts": {
     "lint": "eslint **.js",
